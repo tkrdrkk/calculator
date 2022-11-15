@@ -4,15 +4,5 @@
     "plugin:import/recommended",
     "plugin:import/warnings",
     "prettier"
-  ],
-  "rules": {
-    "import/order": [
-      "error",
-      {
-        "alphabetize": {
-          "order": "asc"
-        }
-      }
-    ]
-  }
+  ]
 }
